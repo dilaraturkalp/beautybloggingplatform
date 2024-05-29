@@ -1,4 +1,4 @@
-# beautybloggingplatform
+# beauty blogging platform
 
 <img width="1440" alt="Ekran Resmi 2024-05-30 00 57 10" src="https://github.com/dilaraturkalp/beautybloggingplatform/assets/110172664/4dbc18c0-cadf-4ea5-8d99-e54c9eb03288">
 <img width="1440" alt="Ekran Resmi 2024-05-30 00 57 26" src="https://github.com/dilaraturkalp/beautybloggingplatform/assets/110172664/7e77545b-0722-4c3e-a7f1-cc7cc671efcf">
