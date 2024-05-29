@@ -1,0 +1,2 @@
+# beautybloggingplatform
+beautybloggingplatform
